@@ -1,0 +1,28 @@
+name: tgs2_responsi
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  device_preview: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  salomon_bottom_bar: ^3.3.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/imgs/logo.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/font/Poppins-Regular.ttf
