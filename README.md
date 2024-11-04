@@ -14,4 +14,4 @@ Here are some screenshots of the application:
 | Forget Password | Profile |
 | <img src="screenshots/img_forgetpass.png" width="300"/> | <img src="screenshots/img_profil.png" width="300"/> |
 | Splash Screen |
-| <img src="screenshots/img_splashscreen.png" width="300"/> |
+| <img src="screenshots/img_splashscreen.png" width="300"/> | 
